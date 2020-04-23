@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="FarmButtonBackground">#FF3C38</color>
+    <color name="SeaButtonBackground">#6C8EAD</color>
+    <color name="SpookyButtonBackground">#FF9757</color>
+</resources>
