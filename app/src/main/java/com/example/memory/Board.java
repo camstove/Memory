@@ -60,8 +60,6 @@ public class Board{
         }
     }
 
-
-
     public void InitButtonList(){
         buttons.add(R.id.button1);
         buttons.add(R.id.button2);
